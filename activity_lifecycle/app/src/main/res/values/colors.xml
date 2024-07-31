@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#2C3E50</color> <!-- A dark blue background color -->
+    <color name="text_color">#FFFFFF</color> <!-- White color for text -->
+    <color name="button_background_normal">#3498DB</color> <!-- Normal state for button background -->
+    <color name="button_background_pressed">#2980B9</color> <!-- Pressed state for button background -->
+</resources>
