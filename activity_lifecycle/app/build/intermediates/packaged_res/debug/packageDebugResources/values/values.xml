@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#2C3E50</color>
+    <color name="button_background_normal">#3498DB</color>
+    <color name="button_background_pressed">#2980B9</color>
+    <color name="text_color">#FFFFFF</color>
+    <item name="lifecycleTextView" type="id"/>
+    <string name="app_name">activity_lifecycle</string>
+    <style name="Base.Theme.Activity_lifecycle" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Activity_lifecycle" parent="Base.Theme.Activity_lifecycle"/>
+</resources>

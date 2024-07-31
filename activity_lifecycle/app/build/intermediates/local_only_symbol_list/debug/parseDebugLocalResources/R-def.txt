@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color background_color
+color button_background_normal
+color button_background_pressed
+color text_color
+drawable button_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id buttonLayout
+id button_pause
+id button_play
+id currentPositionTextView
+id lifecycleTextView
+id seekBar
+id titleTextView
+id totalDurationTextView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw sample_song
+string app_name
+style Base.Theme.Activity_lifecycle
+style Theme.Activity_lifecycle
+xml backup_rules
+xml data_extraction_rules
