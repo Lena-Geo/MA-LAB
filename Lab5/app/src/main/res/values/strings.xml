@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab 5</string>
+    <string name="cat">Cat</string>
+    <string name="dog">Dog</string>
+    <string name="elephant">Elephant</string>
+    <string name="frog">Frog</string>
+</resources>
